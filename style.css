@@ -9,3 +9,11 @@
     width: 30rem;
     object-fit: cover;
 }
+
+.slide {
+    display: none;
+}
+
+.active {
+    display: block;
+}
