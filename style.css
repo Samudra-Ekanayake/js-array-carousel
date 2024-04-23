@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-.container img {
+img {
     height: 20rem;
     width: 30rem;
     object-fit: cover;
@@ -16,4 +16,9 @@
 
 .active {
     display: block;
+}
+
+button {
+    margin-top: 2rem;
+    margin-right: 1rem;
 }
